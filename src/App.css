@@ -1,0 +1,29 @@
+.square {
+      border: 1px solid;
+      float: left;
+      color: black;
+      width: 30px;
+      height: 30px;
+      padding: 0;
+      margin-right: -1px;
+      margin-top: -1px;
+      outline: none;
+}
+
+.startButton, .endButton {
+    width: 100px;
+    height: 40px;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    font-size: 20px;
+    outline: none;
+}
+
+.gridRow {
+    clear: both;
+    display: table;
+    margin: auto;
+}
+
