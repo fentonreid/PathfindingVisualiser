@@ -2,11 +2,6 @@
 
 Pathfinding Visualiser was created using ReactJs, Html and css. It allows for generation of mazes and supports 3 search algorithms.
 
-Run the program by using
-```javascript
-npm start
-```
-
 ## Prerequisites
 You need node.js and npm installed for this project to work.
 
