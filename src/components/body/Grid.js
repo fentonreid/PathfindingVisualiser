@@ -278,7 +278,6 @@ render() {
        <option value="A*">A*</option>
        <option value="DFS">DFS</option>
        <option value="BFS">BFS</option>
-       <option value="Dijkstras">Dijkstras</option>
        </select><button onClick={this.visualiseAlgorithm.bind(this)}>Visualise Algorithm
        </button> <button onClick={this.clearAll.bind(this)}>Clear All</button>
        <p></p>
